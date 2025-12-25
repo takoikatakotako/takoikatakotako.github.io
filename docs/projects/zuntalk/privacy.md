@@ -1,6 +1,6 @@
 # プライバシーポリシー
 
-最終更新日: 2024年12月14日
+最終更新日: 2025年12月25日
 
 takoikatakotako（以下「当方」といいます）は、スマートフォン向けアプリケーションの開発を行っております。本アプリ「ZunTalk」（以下「本アプリ」といいます）をご利用いただくにあたり、以下のプライバシーポリシーをご確認ください。本アプリをご利用いただいた場合、本プライバシーポリシーに同意いただいたものとみなします。
 
@@ -53,6 +53,6 @@ takoikatakotako（以下「当方」といいます）は、スマートフォ�
 
 - アプリ名: ZunTalk
 - 運営者: takoikatakotako
-- お問い合わせ: [GitHubリポジトリのIssue](https://github.com/takoikatakotako/ZunTalk/issues)
+- お問い合わせ: [お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfqxPpkdiG7JW5qIiz0pf0oisne4HIJZiL8nkhmPmgFAlRwCA/viewform?usp=header)
 
 以上
